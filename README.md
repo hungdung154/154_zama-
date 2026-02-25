@@ -6,7 +6,7 @@ Commit 5 line
 Commit 6 line
 Commit 7 linjioi
 Commit 8 
-Commi
+Com
 Commit 10 line
 Commit 
 Commit 1
